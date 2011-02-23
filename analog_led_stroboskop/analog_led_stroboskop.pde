@@ -6,7 +6,7 @@ Am besten mit einer superhellen LED. ;-)
  
 */
 
-int ledPin = 6;    // LED angeschlossen an Pin 9
+int ledPin = 6;    // LED angeschlossen an Pin 6
 int potiPin = 0;   // Poti angeschlossen an Pin Analog 0
 
 // setup() wird einmalig ausgeführt.

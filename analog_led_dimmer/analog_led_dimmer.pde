@@ -4,7 +4,7 @@ LED Helligkeit steuern über Potentiometer
  
 */
 
-int ledPin = 6;    // LED angeschlossen an Pin 9 (PWM-Analogausgang)
+int ledPin = 6;    // LED angeschlossen an Pin 6 (PWM-Analogausgang)
 int potiPin = 0;   // Poti angeschlossen an Pin Analog 0
 
 // setup() wird einmalig ausgeführt.
